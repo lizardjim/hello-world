@@ -1,2 +1,2 @@
-# hello-world
-Just a simple test repository to make sure I'm using it correctly.
+# James Barnett
+A page to make sure this is all working properly.
